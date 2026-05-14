@@ -5,8 +5,7 @@ Passionate about delivering high-quality software through Automation Testing, AP
 Java🔹HTML🔹CSS🔹Selenium🔹Cucumber🔹TestNG🔹DDT🔹BDD🔹Postman🔹REST Assured🔹REST APIs🔹Agile🔹SDLC🔹STLC🔹Scrum🔹Functional🔹Regression🔹Integration🔹E2E🔹Performance
 
 ## 🌱 Currently Learning
-🔹Playwright Automation Frameworks with AI-Driven Automation
-🔹CI/CD with Jenkins
+Playwright Automation Frameworks with AI-Driven Automation🔹CI/CD with Jenkins
 
 ## 🎯 Interests
 🔹Automation Framework Development  
