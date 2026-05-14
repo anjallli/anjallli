@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Anjali
+Passionate about delivering high-quality software through Automation Testing, API Testing, and modern QA practices.
 
-<!--
-**anjallli/anjallli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Tech Stack 
+🔹Core🔹Java🔹HTML🔹CSS
+🔹Selenium🔹Cucumber🔹TestNG🔹DDT🔹BDD
+🔹Postman🔹REST Assured🔹REST APIs
+🔹Agile🔹SDLC🔹STLC🔹Scrum
+🔹Functional🔹Regression🔹Integration🔹E2E🔹Performance 
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+🔹Playwright Automation Frameworks with AI-Driven Automation
+🔹CI/CD with Jenkins
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Interests
+🔹Automation Framework Development  
+🔹Software Quality Engineering  
+🔹Continuous Learning & QA Best Practices  
